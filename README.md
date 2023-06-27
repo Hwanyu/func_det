@@ -1,2 +1,3 @@
 # func_det
-Make Determenent func
+
+행렬식 det 함수 만들기
